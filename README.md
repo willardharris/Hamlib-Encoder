@@ -1,0 +1,1 @@
+# Hamlib Encoder
